@@ -1,0 +1,196 @@
+@media screen and (max-width: 1121px) {
+    #donate-plan .planning-row .planning-custom {
+        height: 524px;
+
+    }
+
+    #donate-plan .custom {
+        height: 100%;
+    }
+}
+
+@media screen and (max-width: 1036px) {
+    #donate-plan .planning-row .planning-custom {
+        height: 546px;
+    }
+}
+
+/* @media screen and (max-width: 996px) {
+    #donate-plan .planning-row .planning-custom {
+        height: 546px;
+    }
+} */
+
+@media screen and (max-width: 992px) {
+
+    #donate-today .col-md-7 {
+        width: 75% !important;
+    }
+
+    #donate-today .col {
+        font-size: 115% !important;
+    }
+
+    #donate-plan .planning-row .planning-custom {
+        flex-direction: column;
+        height: auto;
+
+    }
+
+    #donate-plan .col-md-4 {
+        width: 100%;
+        padding: 20px;
+    }
+
+    #donation .row {
+        flex-direction: column-reverse;
+    }
+
+    #donation .row .col-md-6 {
+        width: 100%;
+    }
+
+    #donation .row .col-md-6 .image-custom {
+        padding-left: unset;
+        padding-bottom: 40px;
+    }
+
+    #suvive .row {
+        flex-direction: column;
+
+    }
+
+    #suvive .row .col-md-6 {
+        width: 100%;
+    }
+
+    #suvive .row .col-md-6 .image-custom {
+        padding-left: unset;
+        padding-bottom: 40px;
+    }
+
+
+    #update {
+        padding: 40px 16px 30px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+
+    #banner_section .col-md-7 {
+        width: 82%;
+    }
+
+    #donate-today {
+        padding: 59px 0;
+    }
+
+    #donate-today input {
+        margin: 20px 0;
+    }
+
+    #donate-today .col-md-7 {
+        width: 85% !important;
+    }
+
+    #donate-today .col {
+        font-size: 115% !important;
+    }
+
+    #donate-plan {
+        padding: 0 0 16px 0;
+    }
+
+
+
+    #donation {
+        padding: 0 69px 78px;
+    }
+
+    #donate-plan .planning-row {
+        padding: 0px 22px 0;
+    }
+
+    #donate-plan .center p {
+        margin-bottom: 0;
+    }
+
+    #suvive {
+        padding: 0 69px 30px;
+    }
+
+    #update .form-row .col-md-7 {
+        width: 86%;
+        margin: auto;
+    }
+}
+
+
+@media screen and (max-width: 556px) {
+
+    #banner_section .col-md-7 {
+        width: 98%;
+    }
+
+    #banner_section h1 {
+        font-size: 35px;
+    }
+
+    #donate-today {
+        padding: 38px 0;
+    }
+
+    h2 {
+        font-size: 28px;
+    }
+
+    #donate-today .col-md-7 {
+        width: 95% !important;
+    }
+
+    #donate-today .col {
+        font-size: 90% !important;
+    }
+
+    #donate-plan .col-md-7 {
+        width: 98%;
+        margin: auto;
+    }
+
+    #donate-plan .planning-row {
+        padding: 0px 0px 0;
+    }
+
+    #donate-plan .planning-row .planning-custom {
+        padding: 16px;
+    }
+
+    #donate-plan .col-md-4 {
+        padding: 20px 0;
+    }
+
+    #donation {
+        padding: 0 16px 55px;
+    }
+
+    #suvive {
+        padding: 0 16px 10px;
+    }
+
+    #suvive .row .col-md-6 .image-custom {
+        padding-top: 17px;
+    }
+
+    #update {
+        padding: 10px 16px 3px;
+    }
+
+    #update .row .col-md-7 {
+        width: 98%;
+    }
+
+    #update .form-row .col-md-7 {
+        width: 98%;
+    }
+}
