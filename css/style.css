@@ -176,6 +176,7 @@ a {
     /* margin: 0 1%; */
     border-radius: 5px;
     padding-bottom: 40px;
+    padding-top: 0;
 }
 
 #donate-plan .sky-blue .custom {
